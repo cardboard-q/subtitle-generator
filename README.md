@@ -22,6 +22,21 @@ the top of the python script requires paths to the desired files
 | margin | distance from edge to text in pixels | 40 |
 | background_rgba  | 8-bit color values for 3-channel color with alpha | (0,0,0, 220) |
 
+## Data setup
+once a path to a translation text is linked, please ensure that it is in the following format:
+
+```
+Original text <language A>
+Translated text <language B>
+
+Different text <language A>
+Translated different text <language A>
+
+.
+.
+.
+```
+
 ## Run program
 In the terminal from this directory, just run:
 
