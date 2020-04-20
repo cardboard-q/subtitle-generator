@@ -3,9 +3,13 @@ easy way to parse a text file to generate png subtitles
 
 - current iteration has hard-coded text paths and customization values
 
+## Sample Generated Subtitle
+![Image](./example_subtitles/0001_This_is_my_sample_project_for_ma.png)
+
 # Installation
 ## Install PIL
-    `pip install Pillow`
+> pip install Pillow
+
 ## Declare paths
 the top of the python script requires paths to the desired files
 
@@ -40,4 +44,4 @@ Translated different text <language A>
 ## Run program
 In the terminal from this directory, just run:
 
-    `python subtitles.py`
+> python subtitles.py
