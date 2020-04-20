@@ -4,6 +4,7 @@ easy way to parse a text file to generate png subtitles
 - current iteration has hard-coded text paths and customization values
 
 ## Sample Generated Subtitle
+(alpha doesn't render on github)
 ![Image](./example_subtitles/0001_This_is_my_sample_project_for_ma.png)
 
 # Installation
