@@ -1,0 +1,38 @@
+This is my sample project for making subtitles
+これは僕の字幕作りプロジェクト
+
+
+The goal of this is to automate the process more
+このプロジェクトの目的は今の方法より自動的に
+
+
+I don't know if everything is set up correctly
+全て合ってるかどうかわからない
+
+
+The font might be wrong
+フォントは間違っているかも
+
+
+The spacing might be wack
+スペーシングはあっちこっちかも
+
+
+But none of these were made by hand
+でもこの字幕は手動で作られてなかった
+
+
+These were parsed out of a text document
+テキストドックからパーシングされた
+
+
+One that you could just download off of Google Docs
+グーグルドックスからダウンロードされたみたいなやつからきた
+
+
+They automatically save as an indexed set
+自動的にインデックスされちゃう
+
+
+So you could just drop them down in order in a video
+なので、それ見れば順番通り動画に入れられるはず
