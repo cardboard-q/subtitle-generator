@@ -35,7 +35,7 @@ Original text <language A>
 Translated text <language B>
 
 Different text <language A>
-Translated different text <language A>
+Translated different text <language B>
 
 .
 .
